@@ -11,7 +11,7 @@ Repo a 4. iskolai projekthez, ami egy Bootstrap alapú weblap a GTA V nevü ját
 ## Infó      
 - téma: GTA V 
 - Keretrendszer: Bootstrap    
-- Minimum 5 oldal: 
+- Minimum 5 oldal
 - Regisztrációs oldal    
 - Lista oldal    
   - Drótvázak

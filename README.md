@@ -14,8 +14,8 @@ Repo a 4. iskolai projekthez, ami egy Bootstrap alapú weblap a GTA V nevü ját
 - Minimum 5 oldal
 - Regisztrációs oldal    
 - Lista oldal    
-  - Drótvázak
-    - PC  
-    - Nagy TV 
-    - Telefon 
+- Drótvázak
+  - PC  
+  - Nagy TV 
+  - Telefon 
          

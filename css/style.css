@@ -1,0 +1,11 @@
+body{
+    background-color: var(--HatterSzin);
+    color: var(--Betuszin);
+    
+}    
+
+td{
+    color: var(--Betuszin);
+    align-items: center;
+}
+

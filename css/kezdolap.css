@@ -1,0 +1,17 @@
+.bgimage {
+    width:100%;
+    height:500px;
+    background: url('https://as.com/meristation/imagenes/2020/04/07/noticias/1586242229_496049_1586242293_noticia_normal.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+  }
+
+.bgimage1 {
+      width:100%;
+      height:300px;
+      background: url('https://files.wallpaperpass.com/2019/10/gta%205%20wallpaper%20177%20-%201920x1080.jpg');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size:cover;

@@ -4,6 +4,10 @@ body{
     
 }    
 
+#cont8r{
+    align-content: center;
+}
+
 td{
     color: var(--Betuszin);
     align-items: center;

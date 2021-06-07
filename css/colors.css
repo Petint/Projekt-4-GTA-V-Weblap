@@ -5,3 +5,7 @@ root{
   --Lebego: green;
   --logo: url(..\Kepek/GTA-5-Emblem.png);
 }
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+  font-family: 'Roboto', sans-serif;
+}
